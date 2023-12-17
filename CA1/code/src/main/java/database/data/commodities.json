@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone",
+    "providerId": "1",
+    "price": 100,
+    "categories": ["phone", "tech"],
+    "rating": 9.8,
+    "inStock": 100,
+    "image": ""
+  },
+  {
+    "id": "2",
+    "name": "Galaxy",
+    "providerId": "2",
+    "price": 100,
+    "categories": ["phone", "tech"],
+    "rating": 8.8,
+    "inStock": 100,
+    "image": ""
+  }
+]

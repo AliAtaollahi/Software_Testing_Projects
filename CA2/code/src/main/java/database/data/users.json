@@ -1,0 +1,18 @@
+[
+  {
+    "username": "ali",
+    "password": "123",
+    "email": "ali@gmail.com",
+    "birthDate": "2000-01-01",
+    "address": "Tehran, Iran",
+    "credit": 1000.0
+  },
+  {
+    "username": "amin",
+    "password": "456",
+    "email": "amin@gmail.com",
+    "birthDate": "2000-01-01",
+    "address": "Tehran, Iran",
+    "credit": 5000.0
+  }
+]

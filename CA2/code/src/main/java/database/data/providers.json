@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "apple",
+    "registryDate": "1990-01-01",
+    "image": ""
+  },
+  {
+    "id": "2",
+    "name": "samsung",
+    "registryDate": "2000-01-01",
+    "image": ""
+  }
+]
