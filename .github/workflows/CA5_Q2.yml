@@ -23,5 +23,5 @@ jobs:
             
             - name: Run tests
               run: |
-                cd CA1
+                cd CA1/code
                 mvn -B package --file pom.xml
